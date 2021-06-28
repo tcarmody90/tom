@@ -1,0 +1,21 @@
+{
+  "short_name": "Portfolio app",
+  "name": "Portfolio app made with react",
+  "homepage": "https://tcarmody90.github.io/tom",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"predeploy": "yarn run build",
+		"deploy": "gh-pages -d build"},
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
