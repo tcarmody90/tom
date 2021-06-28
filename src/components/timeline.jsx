@@ -34,11 +34,12 @@ export default class Timeline extends Component {
                         </h2>
                         <h3>UTHealth Science Center at Houston</h3>
                         <p>
-                          Responsible for interfacing with department
-                          administrators in the content management of the
-                          department(s) web site. This year, I had the privilege
-                          of developing the website for UTHealth's high profile
-                          fundraising campaign,{" "}
+                          My primary responsibility is collaborating with
+                          UTHealth Creative Services, school departments, and
+                          outside vendors in order to translate wireframes and
+                          designs into modern web experiences. This year, I had
+                          the privilege of developing the website for UTHealth's
+                          high profile fundraising campaign,{" "}
                           <em>Many Faces. One Mission.</em> - the largest
                           philanthropic effort in UTHealth's history.
                         </p>

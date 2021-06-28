@@ -20,9 +20,16 @@ export default class About extends Component {
                         I'm a Front-End Web Developer based in Katy, Texas.
                       </h3>
                       <p>
-                        I love solving puzzles and turning designs into elegant,
-                        user friendly websites - all the better if a project
-                        requires picking up new skills.
+                        I love solving puzzles and translating elegant designs
+                        into beautiful, user friendly websites. While
+                        JavaScript, HTML, and CSS are my bread and butter, I
+                        always enjoy picking up new skills when a project calls
+                        for it.
+                      </p>
+                      <p>
+                        Outside of work, I am usually either planning a new
+                        travel adventure with my wife, Agnieszka, or getting
+                        into trouble with my pet cat, Copernicus.
                       </p>
                     </div>
                   </div>
@@ -53,7 +60,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Project Management</h3>
                     <p>
-                      Outside of writing code, I also manage and coordinate web
+                      Besides writing code, I also manage and coordinate web
                       projects, all the way from inception to delivery.
                     </p>
                   </div>
@@ -83,8 +90,8 @@ export default class About extends Component {
                     <h3>Graphic Design</h3>
                     <p>
                       Though translating designs into functional websites is my
-                      forte, I can also use tools like Adobe Photoshop to do
-                      design work.
+                      forté, I also use tools like Adobe Photoshop to do design
+                      work.
                     </p>
                   </div>
                 </div>
