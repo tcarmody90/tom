@@ -100,14 +100,14 @@ export default class Introduction extends Component {
                   Problem solver
                 </li>
                 <li className="content__container__list__item">
-                  Web Developer
+                  World Traveler
                 </li>
                 <li className="content__container__list__item">
                   Tech enthusiast
                 </li>
               </ul>
             </div>
-            <p>
+            {/* <p>
               <a
                 className="btn btn-primary btn-learn"
                 href="https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing"
@@ -117,7 +117,7 @@ export default class Introduction extends Component {
                 View CV
                 <i className="icon-download4" />
               </a>
-            </p>
+            </p> */}
           </div>
         </section>
       </div>
