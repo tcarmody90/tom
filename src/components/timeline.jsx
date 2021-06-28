@@ -67,7 +67,10 @@ export default class Timeline extends Component {
                         <p>
                           At Baylor, I was responsible for creating elegant
                           websites while serving as a professional consultant to
-                          our campus partners. Assisted in scoping, planning,
+                          our campus partners. I enjoyed the opportunity to
+                          develop the animated svg graphs used for Baylor's
+                          comprehensive fundraising campaign website, Give
+                          Light. Additionally, I assisted in scoping, planning,
                           and executing digital projects in an Agile environment
                           - most notably the migration from Baylor's homegrown
                           CMS to Drupal 8.
