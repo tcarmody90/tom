@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
 export default class Timeline extends Component {
   render() {
@@ -7,50 +7,141 @@ export default class Timeline extends Component {
         <section className="colorlib-experience" data-section="timeline">
           <div className="colorlib-narrow-content">
             <div className="row">
-              <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Timeline</h2>
+              <div
+                className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
+                data-animate-effect="fadeInLeft"
+              >
+                <span className="heading-meta">Experience</span>
+                <h2 className="colorlib-heading animate-box">
+                  Work & Education
+                </h2>
               </div>
             </div>
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      <div className="timeline-icon color-8">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>
+                          Web Developer II <span>2020-present</span>
+                        </h2>
+                        <h3>UTHealth Science Center at Houston</h3>
+                        <p>
+                          Responsible for interfacing with department
+                          administrators in the content management of the
+                          department(s) web site. This year, I had the privilege
+                          of developing the website for UTHealth's high profile
+                          fundraising campaign,{" "}
+                          <em>Many Faces. One Mission.</em> - the largest
+                          philanthropic effort in UTHealth's history.
+                        </p>
+                        <ul>
+                          <li>
+                            dotCMS, JavaScript, Velocity, HTML, CSS, Foundation
+                          </li>
+                        </ul>
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInTop"
+                  >
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-4">
+                      <div className="timeline-icon color-8">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>
+                          Front-End Web Developer <span>2018-2020</span>
+                        </h2>
+                        <h3>Baylor University</h3>
+                        <p>
+                          At Baylor, I was responsible for creating elegant
+                          websites while serving as a professional consultant to
+                          our campus partners. Assisted in scoping, planning,
+                          and executing digital projects in an Agile environment
+                          - most notably the migration from Baylor's homegrown
+                          CMS to Drupal 8.
+                        </p>
+                        <ul>
+                          <li>Drupal, JavaScript, PHP, Twig, HTML, CSS, Git</li>
+                        </ul>
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
+                      <div className="timeline-icon color-8">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>
+                          Web Developer Internship <span>2017</span>
+                        </h2>
+                        <h3>Levy Marketing Group</h3>
+                        <p>
+                          Internship in brand marketing, website development,
+                          and internet marketing with a focus on elegant design
+                          and user-centric websites.
+                        </p>
+                        <ul>
+                          <li>
+                            Web page development – coding in HTML, CSS, PHP
+                          </li>
+                          <li>
+                            Utilized the Wordpress CMS to create modern,
+                            responsive web pages
+                          </li>
+                          <li>
+                            Experience with E-Commerce platforms, shopping cart
+                            and payment gateways
+                          </li>
+                          <li>
+                            Exposure to Google Analytics, SEO, Campaign Tracking
+                          </li>
+                          <li>
+                            Gained familiarity with hosting environments, DNS,
+                            SSL certificates
+                          </li>
+                        </ul>
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-none">
+                      <div className="timeline-icon color-8">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          A.A.S. in Web Application Development{" "}
+                          <span>2016-2018</span>
+                        </h2>
+                        <h3>San Jacinto College</h3>
+                        <p>
+                          The curriculum at San Jacinto College enabled me to
+                          create web pages and applications using HTML, CSS,
+                          JavaScript, PHP and MySQL. I was also able to refine
+                          my skills with graphic design using programs such as
+                          Adobe Photoshop and Illustrator. The courses, along
+                          with my professors, helped me to establish a firm
+                          foundation in Web Development from which I have been
+                          able to build upon.
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -60,6 +151,6 @@ export default class Timeline extends Component {
           </div>
         </section>
       </div>
-    )
+    );
   }
 }

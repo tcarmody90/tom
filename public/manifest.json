@@ -1,6 +1,8 @@
 {
   "short_name": "Portfolio app",
-  "name": "Portfolio app made with react as part of 'weekend projects' initiative",
+  "name": "Portfolio app made with react",
+  "private": true,
+  "homepage": "https://tcarmody90.github.io/tom",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,6 +10,11 @@
       "type": "image/x-icon"
     }
   ],
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"predeploy": "yarn run build",
+		"deploy": "gh-pages -d build"},
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
