@@ -22,7 +22,7 @@ export default class About extends Component {
                       <p>
                         I love solving puzzles and turning designs into elegant,
                         user friendly websites - all the better if a project
-                        requires picking up new skills. My
+                        requires picking up new skills.
                       </p>
                     </div>
                   </div>
@@ -82,9 +82,9 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Graphic Design</h3>
                     <p>
-                      Though translating designs into living, breathing websites
-                      is my forte, I can also use tools like Adobe Photoshop to
-                      do design work.
+                      Though translating designs into functional websites is my
+                      forte, I can also use tools like Adobe Photoshop to do
+                      design work.
                     </p>
                   </div>
                 </div>
