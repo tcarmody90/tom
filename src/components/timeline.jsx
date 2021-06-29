@@ -40,7 +40,7 @@ export default class Timeline extends Component {
                           designs into modern web experiences. This year, I had
                           the privilege of developing the website for UTHealth's
                           high profile fundraising campaign,{" "}
-                          <em>Many Faces. One Mission.</em> - the largest
+                          <em>Many Faces. One Mission.</em>, the largest
                           philanthropic effort in UTHealth's history.
                         </p>
                         <ul>
@@ -71,7 +71,7 @@ export default class Timeline extends Component {
                           develop the animated svg graphs used for Baylor's
                           comprehensive fundraising campaign website, Give
                           Light. Additionally, I assisted in scoping, planning,
-                          and executing digital projects in an Agile environment
+                          and executing digital projects in an agile environment
                           - most notably the migration from Baylor's homegrown
                           CMS to Drupal 8.
                         </p>
