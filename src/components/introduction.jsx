@@ -100,11 +100,9 @@ export default class Introduction extends Component {
                   Problem solver
                 </li>
                 <li className="content__container__list__item">
-                  World Traveler
-                </li>
-                <li className="content__container__list__item">
                   Tech enthusiast
                 </li>
+                <li className="content__container__list__item">Cat Dad</li>
               </ul>
             </div>
             {/* <p>

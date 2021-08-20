@@ -19,7 +19,25 @@ export default class Projects extends Component {
             </div>
             <div className="row">
               <div
-                className="col-md-4 animate-box"
+                className="col-md-6 animate-box"
+                data-animate-effect="fadeInTop"
+              >
+                <div
+                  className="project"
+                  style={{ backgroundImage: "url(images/project-4.jpg)" }}
+                >
+                  <div className="desc">
+                    <a href="https://www.gsbs.uth.edu/">
+                      <div className="con">
+                        <h3>UTHealth Graduate School of Biomedical Sciences</h3>
+                        <span>Website</span>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-3 animate-box"
                 data-animate-effect="fadeInLeft"
               >
                 <div
@@ -37,7 +55,7 @@ export default class Projects extends Component {
                 </div>
               </div>
               <div
-                className="col-md-4 animate-box"
+                className="col-md-3 animate-box"
                 data-animate-effect="fadeInRight"
               >
                 <div
@@ -55,7 +73,7 @@ export default class Projects extends Component {
                 </div>
               </div>
               <div
-                className="col-md-4 animate-box"
+                className="col-md-3 animate-box"
                 data-animate-effect="fadeInTop"
               >
                 <div
@@ -67,6 +85,24 @@ export default class Projects extends Component {
                       <div className="con">
                         <h3>Give Light</h3>
                         <span>Website</span>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-3 animate-box"
+                data-animate-effect="fadeInTop"
+              >
+                <div
+                  className="project"
+                  style={{ backgroundImage: "url(images/project-5.jpg)" }}
+                >
+                  <div className="desc">
+                    <a href="https://web.archive.org/web/20200227142441/https://www.baylor.edu/estimator/index.php?id=958514">
+                      <div className="con">
+                        <h3>Baylor University Scholarship Calculator</h3>
+                        <span>Website Application</span>
                       </div>
                     </a>
                   </div>
