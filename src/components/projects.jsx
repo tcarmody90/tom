@@ -27,7 +27,7 @@ export default class Projects extends Component {
                   style={{ backgroundImage: "url(images/project-4.jpg)" }}
                 >
                   <div className="desc">
-                    <a href="https://www.gsbs.uth.edu/">
+                    <a href="https://gsbs.uth.edu/">
                       <div className="con">
                         <h3>UTHealth Graduate School of Biomedical Sciences</h3>
                         <span>Website</span>
